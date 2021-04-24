@@ -1,6 +1,6 @@
 <template>
   <div class="free-wrap">
-    <a target="_blank" href="https://lespiccato.setmore.com">
+    <a target="_blank" href="https://bookings.gettimely.com/lespiccato/bb/book">
       <img src="./booking.png" />
     </a>
   </div>

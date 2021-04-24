@@ -60,7 +60,7 @@
             <div class="button-wrap">
               <a
                 target="_blank"
-                href="https://lespiccato.setmore.com"
+                href="https://bookings.gettimely.com/lespiccato/bb/book"
                 class="button"
               >
                 <div class="button-text">FREE TRAIL CLASS BOOKING </div>

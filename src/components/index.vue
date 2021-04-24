@@ -3,7 +3,7 @@
     <top></top>
     <div class="banner">
       <img src="./index/banner.png" />
-      <a target="_blank" href="https://lespiccato.setmore.com"></a>
+      <a target="_blank" href="https://bookings.gettimely.com/lespiccato/bb/book"></a>
     </div>
     <div class="info-a">
       <img class="flower-a" src="./index/flower.png" />
@@ -65,7 +65,7 @@
     </div>
     <div class="bottom-banner">
       <img src="./index/bottom-banner.png" />
-      <a target="_blank" href="https://lespiccato.setmore.com"></a>
+      <a target="_blank" href="https://bookings.gettimely.com/lespiccato/bb/book"></a>
     </div>
     <bottom></bottom>
     <free></free>
