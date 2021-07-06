@@ -46,13 +46,13 @@
               <div class="text">FOLLOW US</div>
             </div>
             <div class="follow-icons">
-              <a target="_blank" href="https://www.instagram.com/le.spiccato/">
+              <a target="_blank" href="https://www.instagram.com/lespiccatomusic/">
                 <img src="./ins.png" />
               </a>
               <a
                 class="fb"
                 target="_blank"
-                href="https://www.facebook.com/Le-Spiccato-Music-106989044456978/"
+                href="https://www.facebook.com/Le-Spiccato-Music-School-110867504526107"
               >
                 <img src="./fb.png" />
               </a>
