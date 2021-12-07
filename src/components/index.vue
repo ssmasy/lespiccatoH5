@@ -18,18 +18,18 @@
       <div class="title">MUSIC COURSES</div>
 
       <div class="cont">
-        Le Spiccato provides specialised and tailored lessons from our qualified
-        music educators, including instrumental training, improvising
-        coaching,early-care music enrichment courses and more.
+        We provide specialised and tailored lessons from our qualified
+        music educators, including instrumental training,
+        chamber music coaching, early-music enrichment courses and more.
       </div>
 
       <div class="banner-courses">
         <div class="banner-courses-top">
           <router-link :to="{ path: '/courses' }" class="courses-wrap">
-            <img class="courses-pic" src="./index/violin.png" />
+            <img class="courses-pic" src="./index/piano.png" />
           </router-link>
           <router-link :to="{ path: '/courses' }" class="courses-wrap">
-            <img class="courses-pic" src="./index/piano.png" />
+            <img class="courses-pic" src="./index/violin.png" />
           </router-link>
         </div>
         <div class="banner-courses-bottom">
@@ -37,10 +37,10 @@
             <img class="courses-pic" src="./index/cello.png" />
           </router-link>
           <router-link :to="{ path: '/courses' }" class="courses-wrap">
-            <img class="courses-pic" src="./index/vocal.png" />
+            <img class="courses-pic" src="./index/chamber.png" />
           </router-link>
           <router-link :to="{ path: '/courses' }" class="courses-wrap">
-            <img class="courses-pic" src="./index/guitar.png" />
+            <img class="courses-pic" src="./index/early_care.png" />
           </router-link>
         </div>
       </div>
