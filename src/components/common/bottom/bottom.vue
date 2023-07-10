@@ -8,7 +8,7 @@
       <div class="info">
         Address: 1 Jalan Anak Bukit, #02-01 Bukit Timah Plaza, Singapore, 588996
       </div>
-      <div class="info">Tel: +65 6235 6988</div>
+      <div class="info">Tel: +65 6980 8459</div>
       <div class="info info-a">E-mail: service@lespiccato.com.sg</div>
       <div class="title">Office Hours</div>
       <div class="cut"></div>

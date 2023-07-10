@@ -22,7 +22,7 @@
       </div>
       <img src="./contact/phone.png" />
       <div class="title">phone</div>
-      <div class="text">+65 6235 6988</div>
+      <div class="text">+65 6980 8459</div>
       <img src="./contact/email.png" />
       <div class="title">email</div>
       <div class="text">service@lespiccato.com.sg</div>
